@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-state-metrics:v1.2.0
+FROM quay.io/prometheus/alertmanager:v0.14.0
 MAINTAINER fanfansj
