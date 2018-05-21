@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/alertmanager:v0.14.0
+FROM quay.io/prometheus/alertmanager:v0.12.0
 MAINTAINER fanfansj
