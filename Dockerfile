@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/alertmanager:v0.12.0
+FROM quay.io/coreos/kube-state-metrics:v1.3.1
 MAINTAINER fanfansj
