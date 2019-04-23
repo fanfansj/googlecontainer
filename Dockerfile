@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/addon-resizer-amd64:2.1
+FROM gcr.io/kubernetes-helm/tiller:v2.13.1
 MAINTAINER fanfansj
