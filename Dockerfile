@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.13.1
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.3
 MAINTAINER fanfansj
